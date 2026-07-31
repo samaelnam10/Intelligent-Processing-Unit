@@ -1,4 +1,6 @@
 # Intelligent Processing Unit (IPU)
+![IPU](images/00.png)
+
 
 IPU Architecture – Focus on interface, not implementation.
 
