@@ -34,3 +34,23 @@ Example illustrations:
 
 ## ⚡ License
 This project is released under the [MIT License](LICENSE).
+## 🤝 Contribute
+Contributions are welcome!  
+- Fork this repository  
+- Create a new branch for your changes  
+- Commit improvements (docs, diagrams, prototypes)  
+- Submit a Pull Request  
+
+Please keep contributions aligned with the IPU philosophy:  
+**Focus on interface, not implementation.**
+
+## 🚀 Future Work
+This project is an architectural foundation.  
+Planned directions include:
+- Expanding documentation with more diagrams and examples  
+- Building prototype modules (Conversational Engine, Memory, Planning)  
+- Testing with different hardware/software stacks  
+- Exploring community-driven extensions and research papers  
+
+The goal is to evolve IPU as an **open framework** for intelligent systems.
+
