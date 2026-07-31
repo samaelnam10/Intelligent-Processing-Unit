@@ -26,7 +26,7 @@ It defines **responsibilities, interfaces, and cooperation** between components,
 - Feedback Network  
 
 ## 🖼️ Images
-All diagrams are stored in the [images](docs/images/) folder.  
+All diagrams are stored in the [images](images/) folder.  
 Example illustrations:
 
 ![IPU Overview](images/01.png)
