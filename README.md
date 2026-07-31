@@ -29,8 +29,8 @@ It defines **responsibilities, interfaces, and cooperation** between components,
 All diagrams are stored in the [images](docs/images/) folder.  
 Example illustrations:
 
-![IPU Overview](docs/images/01.png)
-![Memory Node](docs/images/02.png)
+![IPU Overview](images/01.png)
+![Memory Node](images/02.png)
 
 ## ⚡ License
 This project is released under the [MIT License](LICENSE).
